@@ -4,7 +4,10 @@ import { Jumbotron } from 'react-bootstrap'
 const Main = () => (
     <div>
         <Jumbotron fluid>
-            <h1>What we do</h1>
+            <h4>What we do</h4>
+            <p>
+                We use natural data points to build predictive energy algorithms using machine learning
+            </p>
         </Jumbotron>
     </div>
 )

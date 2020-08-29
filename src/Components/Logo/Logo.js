@@ -8,8 +8,9 @@ const imgStyle = {
 }
 
 const Logo = () => (
-    <div className="container-fluid">
-        <Image fluid src={logo}
+    <div className="container-fluid my-3">
+        <Image  fluid roundedCircle
+                src={logo}
                 style={imgStyle}
                 alt="Temporary Logo"/>
     </div>
