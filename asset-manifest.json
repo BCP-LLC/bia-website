@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bia-website/static/css/main.00bf8963.chunk.css",
+    "main.js": "/bia-website/static/js/main.419de368.chunk.js",
+    "main.js.map": "/bia-website/static/js/main.419de368.chunk.js.map",
+    "runtime-main.js": "/bia-website/static/js/runtime-main.7366d5c2.js",
+    "runtime-main.js.map": "/bia-website/static/js/runtime-main.7366d5c2.js.map",
+    "static/css/2.11829350.chunk.css": "/bia-website/static/css/2.11829350.chunk.css",
+    "static/js/2.79d30a54.chunk.js": "/bia-website/static/js/2.79d30a54.chunk.js",
+    "static/js/2.79d30a54.chunk.js.map": "/bia-website/static/js/2.79d30a54.chunk.js.map",
+    "index.html": "/bia-website/index.html",
+    "precache-manifest.f0f16e50b05ff9f2c39939c4f4d14434.js": "/bia-website/precache-manifest.f0f16e50b05ff9f2c39939c4f4d14434.js",
+    "service-worker.js": "/bia-website/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/bia-website/static/css/2.11829350.chunk.css.map",
+    "static/css/main.00bf8963.chunk.css.map": "/bia-website/static/css/main.00bf8963.chunk.css.map",
+    "static/js/2.79d30a54.chunk.js.LICENSE.txt": "/bia-website/static/js/2.79d30a54.chunk.js.LICENSE.txt",
+    "static/media/construction.jpg": "/bia-website/static/media/construction.58493e34.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7366d5c2.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.79d30a54.chunk.js",
+    "static/css/main.00bf8963.chunk.css",
+    "static/js/main.419de368.chunk.js"
+  ]
+}
