@@ -17,9 +17,14 @@ const Main = () => (
 
         <Jumbotron>
             <h2 className="mb-5"><em>Please excuse our apperance!</em></h2>
-            <img src={Construction}
-                 alt="Website under construction"
-                 height="300px" />
+            <div className="container-fluid">
+                <div className="row d-flex flex-row justify-content-center">
+                    <img className="col-12 col-md-8 col-lg-6"
+                         src={Construction}
+                         alt="Website under construction"
+                         height="300px" />
+                </div>
+            </div>
         </Jumbotron>
     </div>
 )
