@@ -1,6 +1,6 @@
 import React from 'react'
 import { Image } from 'react-bootstrap'
-import logo from '../../Images/TempLogo.jpeg'
+import logo from '../../Images/stealth-logo.png'
 
 const imgStyle = {
     border: "2px solid black",

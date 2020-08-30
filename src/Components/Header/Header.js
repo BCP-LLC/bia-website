@@ -1,6 +1,6 @@
 import React from 'react'
 import { Navbar } from 'react-bootstrap'
-import Logo from '../../Images/logo192.png'
+import Logo from '../../Images/stealth-logo.png'
 
 const headerStyle = {
     brandStyle: {
@@ -12,18 +12,23 @@ const headerStyle = {
     linkStyle: {
         fontSize: '25px',
         fontWeight: '500'
+    },
+    spanStyle: {
+        backgroundColor: "#FFFFFF"
     }
 }
 
 const Header = () => (
         <Navbar bg='dark'>
             <Navbar.Brand style={headerStyle.brandStyle}>
-                <img src={Logo}
-                     className="mx-2 align-top"
-                     width="25"
-                     height="25"
-                     alt="Temp Logo" />
-                Bia Capital Management
+                <span style={headerStyle.spanStyle} className="mx-2">
+                    <img src={Logo}
+                        className="pb-1"
+                        width="50"
+                        height="50"
+                        alt="Temp Logo" />
+                </span>
+                Stealth Mode Technologies
             </Navbar.Brand>
         </Navbar>
 )
