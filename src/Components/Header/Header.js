@@ -4,7 +4,7 @@ import Logo from '../../Images/stealth-logo.png'
 
 const headerStyle = {
     brandStyle: {
-        fontSize: '25px',
+        fontSize: '20px',
         fontWeight: '700',
         fontFamily: "'Montserrat', sans-serif",
         color: "white"
